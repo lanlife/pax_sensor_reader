@@ -1,8 +1,9 @@
-streamlit==1.22.0
+streamlit==1.40.1
 pandas==1.5.3
 influxdb-client
-pandas
-plotly
-python-dotenv
-streamlit-autorefresh
-influxdb3-python
+pandas==2.0.3
+plotly==5.24.1
+python-dotenv==1.0.1
+streamlit-autorefresh==1.0.1
+influxdb3-python==0.10.0
+
